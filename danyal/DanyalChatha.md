@@ -33,5 +33,15 @@ Today, I'm going to work on {Research how to build a tally tracker using HTML/CS
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me at this moment.
+
+## Feb 8th 
+Last time, I worked on {Creating my HTML/CSS/JS code}.
+
+Today, I'm going to work on {Today I am working on creating logic to compare the two tally tracker also doing research about it. Created a new Branch into the Master Branch to get team repo more clean and organized and hopefully prevent error that could have happend}.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me at this moment (Just need to do research).
+
  
  
