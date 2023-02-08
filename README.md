@@ -3,13 +3,13 @@
 ## Feb 8th, 2023
 Scrummaster: Gajendra
 
-Note Taker: ShavinGajan (SM)
+Note Taker: Shavin
 
 Notes
 Gajendra
 - Switch OTP (one time password)
 - one time password authorization
-- NS: build HTML & 
+- NS: build HTML & JS
 
 Danyal
 - made html, css js
