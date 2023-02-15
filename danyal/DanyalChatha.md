@@ -43,5 +43,14 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me at this moment (Just need to do research).
 
+## Feb 15th 
+Last time, I worked on {Creating logic for the Chess Tally application}.
+
+Today, I'm going to work on { I am still working on creating logic to compare the two tally tracker also doing research about it.}.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
  
  
