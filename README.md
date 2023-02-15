@@ -59,7 +59,7 @@ Andrew
 Najib (sport team tracker)
 - HTML, CSS part
 -blocking:No blocking 
-- NSS: HTML CSS
+- NS: HTML CSS
 
 Anurag
 -Working with the Web Scrapping project
