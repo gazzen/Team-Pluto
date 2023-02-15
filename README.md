@@ -45,7 +45,7 @@ Gajendra
 Danyal
 - working on JS coding
 - blocking:no blocking 
-- NS: doing research to fix the stuff
+- NS: doing research to fix the JavaScript Logic
 
 Shavin
 -start working into project
