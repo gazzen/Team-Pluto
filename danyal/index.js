@@ -1,34 +1,20 @@
-window.onload()
-
-
-
-var whitePlayer = document.getElementById("button1");
-var blackPlayer = document.getElementById("button2");
-
-function whitePlayer(){
-  const numberElement = document.getElementById("WhiteNumber");
-  const number = parseInt(numberElement.innerHTML, 10) + 1;
-  numberElement.innerHTML = number;
+function getCurrentNumber(){
+  return Number(document.getElementById("counter-display").value);
 }
 
-function blackPlayer(){
-  const numberElement = document.getElementById("blackNumber");
-  const number = parseInt(numberElement.innerHTML, 10) + 1;
-  numberElement.innerHTML = number;
+function setCurrentNumber(newValue){
+  document.getElementById("counter-display").value = newValue;
 }
 
+function addition(){
+  var currentValue = getCurrentNumber();
+  setCurrentNumber(currentValue + 1);
+}
 
+function subtraction(){
+  var currentValue = getCurrentNumber();
+  setCurrentNumber(currentValue - 1);
+}
 
-/*if(numberFunction < numFunction){
-  return ("White Wins");
-
-} 
-else if (numFunction < numberFunction)
-{
-  return ("Blacks Wins");
-} 
-else
-{
-  return("nothing")
-}*/
-
+document.getElementById("decrement").addEventListener("click", subtraction);
+document.getElementById("increment").addEventListener("click", addition);
