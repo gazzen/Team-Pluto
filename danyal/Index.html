@@ -3,22 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="style.css">
-  <script src="index.js"></script>
   <title>Chess Tally Tracker</title>
 </head>
 <body>
   <h1 id="heading">Chess Tally Tracker</h1>
-  <main>
-    <div id="WhitePlayer">
-      <h1 id="WhiteNumber">0</h1>
-      <input type="button" value="Add" id="button1">
-</div>
-    <div id="BlackPlayer">
-      <h1 id="blackNumber">0</h1>
-      <input type="button" value="Add" id="button2">
-    </div>
-  </main>
-  <div class="chess"></div>
-  <div id="text"></div>
+  <h1>Chess Tally Tracker</h1>
+  <button type="button" class="subtract" id="decrement">-</button>
+  <input type="number" id="counter-display" value="0" disabled/>
+  <button type="button" class="addition" id="increment">+</button>
+
+  <script src="index.js"></script>
+
 </body>
 </html>
