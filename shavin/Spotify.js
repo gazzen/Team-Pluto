@@ -16,11 +16,19 @@ class Spotify {
         this.authorize();
     }
 
-    async authorize(){
-        let formData = new FormData();
-        formData.append("grant_type","client_credentials");
 
-        var res = await fetch(`https://accounts.spotify.com/api/token?grant_type=client_credentials`,{
+
+    setAuth(method){
+        switch(method){
+            case "client_credentials":
+            default:
+                this.authFlow = "client_credentials";
+            break;
+        }
+    }
+
+    async authorize(){
+        var res = await fetch(`https://accounts.spotify.com/api/token?grant_type=${this.authFlow}`,{
             method:'post',
             headers:{
                 'Content-Type':'application/x-www-form-urlencoded',
@@ -33,7 +41,6 @@ class Spotify {
             'Authorization':'Bearer '+this.token,
             'Content-Type':'applciation/json'
         }
-
         return true;
     }
 

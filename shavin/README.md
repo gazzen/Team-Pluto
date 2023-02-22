@@ -15,9 +15,11 @@ Scaffolded Environment
  - get playlist
 
 ## Feb 22
-Added the following endpots
+Added the following endpoits
 - Get Track
 - Get Tracks
 - Get Playlist
 - Get Artist
 - Get Artists
+Will be using Client Credential flow to start, as no authentication is needed. It will not be able to access user information, only publically available.
+will need to add other authorization flows before 
