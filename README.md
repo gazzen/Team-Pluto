@@ -74,3 +74,23 @@ Andrew
 Najib (sport team tracker)
 - blocking: Research
 - NSS: HTML CSS
+
+## Feb 1st, 2023
+
+Najib was scrum master, and Andrew took notes.
+
+Daynal 
+
+- brainstorming and come up with chess traking idea.
+
+Shavin 
+
+- Researching what platform he want to use. Leaning towards Spotify.
+
+Najib 
+
+- researching, deciding if wants to track multiple sports or just one.
+
+Gajendra 
+
+- working on wire framing and researching on OTP web app developing
