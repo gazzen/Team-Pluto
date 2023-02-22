@@ -30,8 +30,9 @@ Gajendra Suwal - portfolio.
 
 ## Feb 1
 
-Najib was scrum master, and Andrew took notes.
+## Standup
 
+Najib was scrum master, and Andrew took notes.
 
 Daynal - brainstorming and come up with chess traking idea.
 Shavin - Researching what p[latform he want to use. Leaning towards Spotify.
@@ -45,19 +46,36 @@ within logic x
 
 ## Feb 8
 
--scrum master standup Gajendra
--Shavin took notes
--personal goals are to start coding.
--discussed idea with a senior dev last week, Avi Granite, and he
+## Standup
+
+- scrum master standup Gajendra
+- Shavin took notes
+- personal goals are to start coding.
+- discussed idea with a senior dev last week, Avi Granite, and he
 gave me some ideas for where to start
--major blocker is confusion around when and where we will actually be doing some coding
-format of class, and the expectations on us difficult to stay on top of.
--reorganizing git folder system - individual folders in main, so when we all merge we wont have conflicts.
+- reorganizing git folder system - individual folders in main, so when we all merge we wont have conflicts.
 will keep individual notes, but keep a common stand-up log.
 
 // retrospective //
 
 ## Feb 15
+
+Feb 15, 2023 Retrospective
+
+The github repo is not effective, the current setup will cause issues when merging into a single main branch in the future
+
+currently, there is a single repo and README, that everyone is editing and updating, on individual branch
+will need to restructure to account for future merging
+create a main README that will act as the team meeting
+create individual work folders that wewill place our individual work into
+place README in each folder, which will be individual notes
+create branches off of main and only put our work in OUR folder
+protect the github main branch from being modified
+The KANBAN Trello board is not being used, feature tracking is not available
+
+will need to identify features to add to the board
+
+## Standup
 
 - Scrum master Danyal
 - Gajendra took notes.
