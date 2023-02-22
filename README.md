@@ -19,6 +19,30 @@ The KANBAN Trello board is not being used, feature tracking is not available
 
 # Standup Meeting Notes
 
+## Feb 22nd, 2023
+
+Scrum master: Shavin
+
+Notes: Andrew
+
+- We started a kanban board and each added some stickies/tasks.
+- had a meeting. Start putting docs together and organizing for report due on friday.
+
+Gajendra:  Working on refining the CSS sector and JavaScript part . And my Blocking is: Having issue with transmitting data to users. But for this I am taking notes /researching to fix the bugs.
+
+Danyal: Restarted coding because didnt like what he had. Looking to add cookies, andneeds to research how.
+
+Najib: Trying to find api for missed games and find access.
+
+Shavin: Has some basic api enpoints, but wants to choose and connect some more specific endpoints. 
+ants to add authentication.
+
+Anurag: For webscraping, trying to find a way to bypass security that is restricing his access.
+
+Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once
+ive gained some more basic experience.
+
+
 ## Feb 15th, 2023
 
 ScrumMaster: Danyal
