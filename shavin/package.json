@@ -1,0 +1,12 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "Javascript wrapper for spotify API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
