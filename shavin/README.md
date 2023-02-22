@@ -13,3 +13,11 @@ Scaffolded Environment
  - get artist
  - get podcast
  - get playlist
+
+## Feb 22
+Added the following endpots
+- Get Track
+- Get Tracks
+- Get Playlist
+- Get Artist
+- Get Artists
