@@ -30,8 +30,13 @@ Gajendra Suwal - portfolio.
 
 ## Feb 1
 
-get last weeks notes from Shavin.
-scrum master Najib standup
+Najib was scrum master, and Andrew took notes.
+
+Daynal - brainstorming and come up with chess traking idea.
+Shavin - Researching what p[latform he want to use. Leaning towards Spotify.
+Najib - researching, deciding if wants to track multiple sports or just one.
+Gajendra - working on wire framing and researching on OTP web app developing
+
 work through git exercises
 create our own git repo for team pluto
 personal goals more research, and get ready to write some simple js scripts
@@ -50,4 +55,34 @@ format of class, and the expectations on us difficult to stay on top of.
 will keep individual notes, but keep a common stand-up log.
 
 // retrospective //
+
+## Feb 15
+
+- Scrum master Danyal
+- Gajendra took notes.
+- Watched a youtube vid getting started coding. figured out how to engage the plugin.
+
+
+
+# Feb 22
+
+- I took notes.
+- We started a kanban board and each added some stickies/tasks.
+- would like to start coding, but alas...more busy work.
+- had a meeting. Start putting docs together and organizing for report due on friday.
+
+Gajendra:  Recently I am working on refining the CSS sector and JavaScript part . And my Blocking is: Having issue with transmitting data to users. But for this I am taking notes /researching to fix the bugs.
+
+Danyal: Restarted coding because didnt like what he had. Looking to add cookies, andneeds to research how.
+
+Najib: Trying to find api for missed games and find access.
+
+Shavin: Has some basic api enpoints, but wants to choose and connect some more specific endpoints. 
+ants to add authentication.
+
+Anurag: For webscraping, trying to find a way to bypass security that is restricing his access.
+
+Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once
+ive gained some more basic experience.
+
 
