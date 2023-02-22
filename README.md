@@ -77,7 +77,8 @@ Najib (sport team tracker)
 
 ## Feb 1st, 2023
 
-Najib was scrum master, and Andrew took notes.
+Najib: Scrum Master
+Andrew: Notes.
 
 Daynal 
 
