@@ -1,6 +1,17 @@
 const {createSpotify} = require('./Spotify.js');
+var spotify = createSpotify('0aa3cbf925b448228e34837ab5d53131','2331f82245fb43ae9a05dd57477fd390');
 
-var spotify = createSpotify('this is id','this is secret','this is auth_token','this is refresh token');
+
+async function getTrack(){
+    await spotify.authorize();
+    var track = await spotify.track("3zb9k8UUuKz5tYmKJvNqQA");
+    var tracks = await spotify.tracks(["7ouMYWpwJ422jRcDASZB7P","4VqPOruhp5EdPBeR92t6lQ","2takcwOaAZWiXQijPHIx7B"]);
+    var artist = await spotify.artist("0TnOYISbd1XYRBk9myaseg");
+    var artists = await spotify.artists(["2CIMQHirSU0MQqyYHq0eOx","57dN52uHvrHOxijzpIgu3E","1vCWHaC5f2uS3yhpwWbIA6"]);
+    console.log(artists);
+}
+
+getTrack();
 
 // tracks
 // get track info
