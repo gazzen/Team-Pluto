@@ -52,5 +52,14 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me as of now.
 
+## Feb 22nd 
+Last time, I worked on {Creating logic for the Chess Tally application}.
+
+Today, I'm going to work on { I didn't like how my logic and code was structured so I restarted and re did the whole html and css also JavaScript so I am still working on the logic once again}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
  
  
