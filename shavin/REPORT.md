@@ -46,6 +46,8 @@ The github repo is not effective, the current setup will cause issues when mergi
 
 will need to identify features to add to the board
 
+<hr>
+
 # Feb 8st, 2023
 ## Work
 This week I decided t o build out an API for Spotify only. The goal for the Spotify API Wrapper is that you will be able to import a plainJS script into any project, and use the library. Because it is in PureJS, it will work in any JS framework such as React and Vue. I needed help with identifying which endpoints to include in the library, which Danyal helped me identify. the Endpoints will include:
@@ -88,6 +90,8 @@ Najib (sport team tracker)
 
 - blocking: Research
 - NSS: HTML CSS
+
+<hr>
 
 # Feb 1st, 2023
 ## Work
