@@ -61,5 +61,14 @@ list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me as of now.
 
+## March 7th 
+Last time, I worked on {recreating the code for all my scripting langue that I was using}.
+
+Today, I'm going to work on { I am still working on the logic once again but it is almost complete, shortly after I will make the application more user friendly.}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
  
  
