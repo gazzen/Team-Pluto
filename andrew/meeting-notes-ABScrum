@@ -109,4 +109,11 @@ Anurag: For webscraping, trying to find a way to bypass security that is restric
 Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once
 ive gained some more basic experience.
 
+# Mar 8
 
+- Anurag was scrum master.
+- Najib was note taker.
+
+I've started coding a little, and have been opening default presets and modifying the code to see what happens.
+Trying to get set up with a midi controller that can control my functions.
+Having some blocking problems in that the midi controller is not communication as predicted with logic x, but have an alternate plan (and youtube tutorials).
