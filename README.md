@@ -1,3 +1,44 @@
+# Standup Meeting Notes
+
+## March 15, 2023
+
+Scrum master: Andrew
+
+Notes: Gajendra
+
+
+
+Shavin:  working on set up/documentation sites 
+-using JS library to have documentation
+Next step: Usability Testing environment
+blocking:need to read doc resources how to use it library
+
+Andrew: working on the project
+-Trying to sync/interface the Mini device the software
+-brought mini controller to set it up
+Next step: Interfacing the Mini device
+blocking:trying set up the Mini and make it run normally
+
+Gajendra: working on the authorizatin access
+Next step: Giving access to second user
+blocking: trying to fix to provide access for second user
+
+Najib:  building the HTML/CSS
+next step:  coding the javascript logic into the application
+blocking: no block
+
+Anurag: Done: Getting simple player data 
+Working On: Make the application more user friendly 
+Blocking: No Block
+
+Danyal: building the logic and making it user friendly
+Next Step: Coding the cookie to the application
+Block: nothing
+
+
+
+
+
 # Retrospectives
 
 ## Feb 15, 2023 Retrospective
